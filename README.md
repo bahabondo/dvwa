@@ -4,6 +4,9 @@ A compilation of solutions and various notes for the Damn Vulnerable Web App (DV
 Kali linux download
 https://kali.download/virtual-images/kali-2022.2/kali-linux-2022.2-virtualbox-amd64.ova
 
+Metasploitable 2
+http://downloads.metasploit.com/data/metasploitable/metasploitable-linux-2.0.0.zip
+
 <b><i>Please note the following restrictions and caveats. Please read them in full. Continuing to read or interact with this repo in any manner signifies consent to these terms.</i></b>
 <ol type="1">
   <li>I will always assume you have the following already set up:
